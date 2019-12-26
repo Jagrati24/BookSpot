@@ -1,0 +1,9 @@
+<html>
+<boby>
+<h1>
+My MAp</h1>
+<div id="googlemap" style="width:100%;height:400px;"></div>
+<script>
+function myMap()
+{
+var mapProp={center:new google
